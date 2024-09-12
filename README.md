@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">I'm Jr. Full-stack Developer</h3>
+<h3 align="center">I'm Full-stack Developer</h3>
 
 - 📫 How to reach me **beyzaeguney@gmail.com**
 
